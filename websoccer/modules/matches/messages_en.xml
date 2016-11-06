@@ -144,4 +144,12 @@
 	<message id="{sp1} tritt an: Und trifft!">{sp1} is trying: And scores!</message>
 	<message id="{sp1} tritt an: Aber {sp2} hält den Ball!!">{sp1} is trying: But {sp2} catches the ball!!</message>
 	<message id="{sp1} legt sich den Ball zurecht. Etwas unsicherer Anlauf... und haut den Ball über das Tor.">{sp1} is placing the ball. He seems to be a bit unsecure... and kicks the ball far aside of the goal.</message>
+
+	<!-- Left out messages -Edit by Bradley -->
+	<message id="{sp1} kommt für {sp2}.">{sp1} substituted for {sp2}.</message>
+	<message id="Ecke für {ma1}. {sp1} spielt auf {sp2}...">Corner for {ma1}. {sp1} passes to {sp2}...</message>
+	<message id="{sp1} ändert die Taktik.">{sp1} changes their tactics.</message>
+	<message id="Tooor für {ma1}! {sp2} legt auf {sp1} ab, der nur noch einschieben muss.">Goaaal for {ma1}! {sp2} passes to {sp1} who kicks it in the net.</message>
+	<message id="{sp1} tritt den direkten Freistoß und trifft!">{sp1} takes the free kick and scores!</message>
+
 </messages>
